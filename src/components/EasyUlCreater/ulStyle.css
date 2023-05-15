@@ -1,0 +1,10 @@
+.ulDiv{
+  /*padding: 0;*/
+  /*margin: 0;*/
+}
+.ulDiv ul{
+  padding: 0;
+}
+.ulDiv li{
+  color: #c0392b;
+}
